@@ -565,14 +565,23 @@ export default function Home() {
           </p>
           
           <p className="text-gray-500 text-sm">
-            © 2025 Inuka Marketing Agency · Nairobi, Kenya · Created by{' '}
+            © 2025 Inuka Marketing Agency · Nairobi, Kenya ·
+            <a
+              href="https://www.instagram.com/inukamarketing_agency/?__pwa=1#"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white underline mx-1"
+            >
+              Follow us on Instagram
+            </a>
+            · Created by{' '}
             <a
               href="https://www.instagram.com/_.ben.nn_/?__pwa=1#"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-white underline"
+              className="text-white underline mx-1"
             >
-              ben
+              Benedict
             </a>
           </p>
         </div>
