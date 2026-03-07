@@ -17,9 +17,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "INUKA Marketing Agency | We Make Brands Rise",
-  description: "We help small local businesses across Kenya build a powerful digital presence — so your customers can find you, trust you, and choose you.",
-  keywords: "marketing agency, Kenya, digital marketing, SEO, social media, small business",
+  title: "Inuka Marketing Agency",
+  description: "Helping small Kenyan businesses grow with digital marketing, SEO, ads and websites.",
+  keywords: "marketing agency, Kenya, digital marketing, SEO, ads, websites, small business",
 };
 
 export default function RootLayout({
